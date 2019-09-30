@@ -1,0 +1,42 @@
+.page {
+    border: 1px black solid;
+}
+
+.article {
+    border: 1px black solid;
+    height: 100px;
+}
+
+.container-fluid {
+    width: 80%
+}
+
+.articles {
+    border: 1px black solid;
+    overflow-y: scroll;
+    height: 150px;
+}
+
+.pages {
+    padding: 0px 20px 0px 20px;
+    border-width: 0px 1px 1px 1px; /* top right bottom left */
+    border-style: solid;
+    border-color: black;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.pageRow {
+    height: 100%;
+    border: 1px black solid;
+}
+.PageToolsRow{
+    position: absolute;
+    border: 1px black solid;
+    width: 100%;
+
+}
+
+
+
+
